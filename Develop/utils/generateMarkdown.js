@@ -47,7 +47,7 @@ function generateMarkdown(data) {
   - [License](#license)
 
   ## Description
- ${data.description}
+  ${data.description}
 
   ## Usage
   ${data.usage}
@@ -63,7 +63,7 @@ function generateMarkdown(data) {
 
   ## Questions
   ${data.email}
-  ${data.github}
+  https://github.com/${data.github}
 
   ## License
   ${renderLicenseSection(data.license)} 

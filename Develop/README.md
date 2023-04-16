@@ -1,6 +1,6 @@
-# readme generator
+# a
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## Table of Contents
 
@@ -14,30 +14,30 @@
 
 ## Description
 
-this is an app that helps users to create a professional readme file
+a
 
 ## Usage
 
-N/A
+a
 
 ## Installation
 
-following the video instruction
+a
 
 ## Contribution guidelines
 
-N/A
+a
 
 ## Tests
 
-N/A
+a
 
 ## Questions
 
-doris@gmail.com
-Github Chenson
+a
+https://github.com/a
 
 ## License
 
-This project is licensed under the terms of the MIT license.
-[License](https://opensource.org/licenses/MIT)
+This project is licensed under the terms of the BSD license.
+[License](https://opensource.org/licenses/BSD-3-Clause)

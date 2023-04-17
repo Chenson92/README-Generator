@@ -1,43 +1,39 @@
-# a
 
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  # Weather Dashboard
+    
+  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+  
+  ## Table of Contents
+  - [Description of the Project](#description)
+  - [Usage](#usage)
+  - [Installation](#installation)
+  - [Contribution guidelines](#contributing)
+  - [Tests instruction](#tests)
+  - [Questions](#questions)
+  - [License](#license)
 
-## Table of Contents
+  ## Description
+  This is an app for users to check daily weather
 
-- [Description of the Project](#description)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Contribution guidelines](#contributing)
-- [Tests instruction](#tests)
-- [Questions](#questions)
-- [License](#license)
+  ## Usage
+  N/A
 
-## Description
+  ## Installation
+  N/A
 
-a
+  ## Contribution guidelines
+  N/A
 
-## Usage
+  ## Tests
+  N/A
 
-a
+  ## Questions
+  - Contact me with the following E-mail address:
+  dorischen@gmail.com
 
-## Installation
+  - Here is my Github:
+  https://github.com/Chenson92
 
-a
-
-## Contribution guidelines
-
-a
-
-## Tests
-
-a
-
-## Questions
-
-a
-https://github.com/a
-
-## License
-
-This project is licensed under the terms of the BSD license.
-[License](https://opensource.org/licenses/BSD-3-Clause)
+  ## License
+  This project is licensed under the terms of the BSD license. 
+  [License](https://opensource.org/licenses/BSD-3-Clause) 

@@ -8,7 +8,7 @@ This is a command line application that helps users to create a professional rea
 
 ## Screenshot
 
-![weather dashboard](./Assest/Screenshot.png)
+![readme generator](./Develop/Assest/Screenshot.png)
 
 ## Link
 
